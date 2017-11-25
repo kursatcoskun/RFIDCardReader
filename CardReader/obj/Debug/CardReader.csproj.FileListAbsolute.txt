@@ -1,0 +1,16 @@
+C:\Users\Kursat\Desktop\CardReader\CardReader\bin\Debug\CardReader.exe.config
+C:\Users\Kursat\Desktop\CardReader\CardReader\bin\Debug\CardReader.exe
+C:\Users\Kursat\Desktop\CardReader\CardReader\bin\Debug\CardReader.pdb
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.csprojResolveAssemblyReference.cache
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.Form1.resources
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.Properties.Resources.resources
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.csproj.GenerateResource.Cache
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.exe
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.pdb
+C:\Users\Kursat\Desktop\CardReader\CardReader\bin\Debug\MySql.Data.dll
+C:\Users\Kursat\Desktop\CardReader\CardReader\bin\Debug\MySql.Data.xml
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.MainPage.resources
+C:\Users\Kursat\Desktop\CardReader\CardReader\obj\Debug\CardReader.KayitGoruntule.resources
+C:\Users\Kursat\Desktop\MyProjects\RFID KART READER PROJECT\CardReader\CardReader\bin\Debug\CardReader.exe.config
+C:\Users\Kursat\Desktop\MyProjects\RFID KART READER PROJECT\CardReader\CardReader\obj\Debug\CardReader.exe
+C:\Users\Kursat\Desktop\MyProjects\RFID KART READER PROJECT\CardReader\CardReader\obj\Debug\CardReader.pdb
