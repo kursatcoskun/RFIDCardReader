@@ -1,2 +1,2 @@
 # RFIDCardReader
-RFID RC522 ile .NET bağlantısı ve uygulaması
+.NET connection with RFID RC522 and sample application
